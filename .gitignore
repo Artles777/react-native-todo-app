@@ -11,3 +11,9 @@ web-build/
 
 # macOS
 .DS_Store
+.idea/.gitignore
+.idea/.name
+.idea/misc.xml
+.idea/modules.xml
+.idea/todo-mobile.iml
+.idea/vcs.xml
